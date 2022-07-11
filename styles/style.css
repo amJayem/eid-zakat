@@ -27,11 +27,12 @@
 }
 
 .hero-text h1{
+    margin-top: 180px;
     font-size: 55px;
     margin-bottom: 10px;
 }
 .hero-text p{
-    font-size: 26px;
+    font-size: 14px;
     margin-bottom: 30px;
     width: 40%;
 }
@@ -39,11 +40,12 @@
 .hero-text a{
     text-decoration: none;
     display: inline-block;
-    background-image: linear-gradient(tomato,tomato);
-    padding: 20px 30px;
+    /* background-image: linear-gradient(tomato,red); */
+    background-color: #EF233C;
+    padding: 20px 50px;
     margin-top: 50px;
     border-radius: 6px;
-    font-weight: 700;
+    font-weight: 500;
 }
 
 .hero-text a:hover{
